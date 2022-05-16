@@ -1,5 +1,7 @@
 # ISpyGame
 
+![ispy](https://user-images.githubusercontent.com/55459419/168679916-cc2a7e4e-bff0-4ddf-8c6e-481f1b305038.gif)
+
 This game was created with 3D art, texture, and material creation in mind. The basic idea is identical to an iSpy book. From the list of items, click what you see before the time runs out. When hovering over items, a colorful outline will appear, indicating that the object can be selected. If correctly selected, an animation will play on the Items List, crossing out the spotted item.
 
 ## How It's Made
