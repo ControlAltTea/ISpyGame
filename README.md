@@ -4,6 +4,9 @@
 
 This game was created with 3D art, texture, and material creation in mind. The basic idea is identical to an iSpy book. From the list of items, click what you see before the time runs out. When hovering over items, a colorful outline will appear, indicating that the object can be selected. If correctly selected, an animation will play on the Items List, crossing out the spotted item.
 
+## Tech Used : ![Blender](https://user-images.githubusercontent.com/55459419/168680260-996880bd-81b3-4290-a19b-9336f08275bb.svg)
+
+
 ## How It's Made
 
 Using Unity to create the outline shader and mouse detection, we then created every 3D object using Blender to model and Substance Painter to create textures and materials.
